@@ -1,2 +1,2 @@
 ### HELLO FRIENDS!!!
-![](emoji.gif) ![](nerd.gif)
+![](emoji.gif)
